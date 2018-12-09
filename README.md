@@ -20,7 +20,7 @@ scp -i "~/.ssh/cs690ethereum.pem" ubuntu@ec2-18-144-14-139.us-west-1.compute.ama
 8. On AWS, move all txs.txt at records/txs/cleaned/ to records/txs/cleaned/backup.
 
 ## Transaction fee and processing time
-### dataset structure
+### Dataset paths
 ```markdown
 records
 +-- ali_txs
